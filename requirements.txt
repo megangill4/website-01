@@ -1,0 +1,6 @@
+# Requirements
+numpy
+matplotlib
+nbinteract
+scipy
+jupyter-book
